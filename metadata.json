@@ -1,0 +1,5 @@
+{
+  "name": "Streamsic",
+  "description": "A web app for streaming high-resolution, lossless music from local storage with seamless playback. Features a searchable music library, customizable playlists, and a clean, modern interface inspired by premium music services.",
+  "requestFramePermissions": []
+}
